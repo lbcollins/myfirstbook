@@ -1,7 +1,7 @@
 --- 
-title: "ModernDive - Lite"
+title: "ModernDive - LiteR"
 subtitle: "An Introduction to Statistical and Data Sciences via R"
-author: "Chester Ismay and Albert Y. Kim"
+author: "Chester Ismay, Albert 'SE' Kim, and Linda Collins"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book

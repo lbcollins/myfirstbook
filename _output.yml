@@ -1,0 +1,10 @@
+bookdown::gitbook:
+  df_print: paged # displays dataframes w/ few rows & clickable pages
+  css: style.css
+  split_by: "chapter+number"
+  config:
+    toc:
+      collapse: section
+      scroll_highlight: true
+    edit:
+      link: https://github.com/ismayc/moderndiver-lite/edit/master/%s
